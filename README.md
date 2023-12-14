@@ -78,5 +78,5 @@ print("Table value of chi square at 1 level is %4.2f"%table_chi2)
 
 # Results
 
-The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
+The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
  
